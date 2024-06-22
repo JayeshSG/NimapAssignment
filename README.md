@@ -10,5 +10,5 @@ This project is implemented using :
 - annotation based configuration (Not XML).
 - JPA & Hibernate
 In this project we have implemented relationship between Category-Products and it should have one-to-many relation. (One category can have multiple products).
-Machine test should have Server side pagination.
- While fetching single product details the response should be populated with respective category details.
+It has Server side pagination.
+While fetching single product details the response have be populated with respective category details.
